@@ -7,9 +7,9 @@
 * yet, it will have a pc client in the near future.
 
 ## Platform
-* Android
-* Web
-* Windows 10 Mobile
+* Android && IOS
+* Windows 10
+* Linux Server
 
 ## To do
 a lot of things written here
