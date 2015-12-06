@@ -8,7 +8,8 @@
 * Windows 10 Mobile
 
 ## To do
-a lot of things written here
+//a lot of things written here.
+(yw)learn to write Android native app in Kotlin.When my hexodroid completed, I'll be back.
 
 ## Reference
 websites and books referenced here
